@@ -5,6 +5,3 @@
 [submodule "RWNN"]
 	path = RWNN
 	url = https://github.com/svilsen/rwnn
-[submodule "STRMPS"]
-	path = STRMPS
-	url = https://github.com/svilsen/strmps
